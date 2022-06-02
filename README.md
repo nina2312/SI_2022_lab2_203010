@@ -1,1 +1,1 @@
-# SI_2022_lab2_203010
+Nikolina Grujova 203010
