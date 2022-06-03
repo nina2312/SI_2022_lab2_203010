@@ -4,7 +4,8 @@ Control Flow Graph
 
 ![graf1](https://user-images.githubusercontent.com/100199831/171853966-abb63b07-d591-43d9-a3e8-0e2020b0a35c.PNG)
 
-![лаб2](https://user-images.githubusercontent.com/100199831/171857188-90b9d929-b574-4f79-84b9-511228e66116.PNG)
+![лаб](https://user-images.githubusercontent.com/100199831/171857576-4f171016-356f-40af-b82c-f38d619ca40b.PNG)
+
 
 
 Цикломатска комплексност
