@@ -16,8 +16,11 @@ Control Flow Graph
 ![C0](https://user-images.githubusercontent.com/100199831/171855241-89b90cf6-8374-4b4e-be3c-3fb7f72aa053.PNG)
 
 
+Со првиот тест пример го опфаќаме првиот и вториот statement.Со вториот тест пример првиот, третиот и четвртиот, а со третиот тест пример сите останати.
+
 
 Тест случаи според критериумот Every path
 
 ![C1](https://user-images.githubusercontent.com/100199831/171855290-4e7526ef-226c-48d7-a6f6-466c075b210b.PNG)
 
+Истите тест примери од Every statement беа доволни и за опфаќање на сите гранки од табелата.
